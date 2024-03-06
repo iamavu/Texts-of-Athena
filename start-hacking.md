@@ -32,6 +32,8 @@ Alternatives include&#x20;
 1. [Web Archive Link](https://web.archive.org/web/20221105083310/https://linuxjourney.com/)
 2. [Official GitHub Repo](https://github.com/cindyq/linuxjourney)
 3. [Clone of the website](https://notes.siira.io/) &#x20;
+
+EDIT : As of 06-03-2024, the original website is up and running
 {% endhint %}
 
 {% embed url="https://linuxjourney.com" %}
