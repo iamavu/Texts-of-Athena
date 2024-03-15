@@ -151,6 +151,7 @@ description: Random Resources I Found While Researching
 * [https://whatsmyname.app/](https://whatsmyname.app/)
 * [https://map.malfrats.industries/](https://map.malfrats.industries/)
 * [https://osintframework.com/](https://osintframework.com/)
+* [https://start.me/p/L1rEYQ/osint4all](https://start.me/p/L1rEYQ/osint4all)
 
 ## Cloud
 
