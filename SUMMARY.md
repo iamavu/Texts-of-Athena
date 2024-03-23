@@ -5,3 +5,4 @@
 * [Resources](resources.md)
 * [Practical Malware Analysis Notes](practical-malware-analysis-notes/README.md)
   * [Malware Analysis Primer](practical-malware-analysis-notes/malware-analysis-primer.md)
+  * [Basic Techniques](practical-malware-analysis-notes/basic-techniques.md)
