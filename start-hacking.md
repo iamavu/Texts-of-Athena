@@ -14,7 +14,7 @@ I would highly recommend you to brush up your networking skills as it would help
 
 A YouTube playlist explaining basics of Networking&#x20;
 
-{% embed url="https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi" %}
+{% embed url="https://www.youtube.com/watch?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi&v=bj-Yfakjllc" %}
 
 ## <mark style="color:red;">Linux</mark>
 
