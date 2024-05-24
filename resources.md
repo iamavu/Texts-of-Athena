@@ -4,23 +4,23 @@ description: Random Resources I Found While Researching
 
 # Resources
 
-## Hashing and Cracking
+## <mark style="color:purple;">Hashing and Cracking</mark>
 
 * [https://weakpass.com/](https://weakpass.com/)
 * [https://dehashed.com/](https://dehashed.com/)
 * [https://ntlm.pw/](https://ntlm.pw/)
 
-## Breaches
+## <mark style="color:purple;">Breaches</mark>
 
 * [https://snusbase.com/](https://snusbase.com/)
 * [https://breachdirectory.org/](https://breachdirectory.org/)
 
-## Cryptography
+## <mark style="color:purple;">Cryptography</mark>
 
 * [https://www.dcode.fr/en](https://www.dcode.fr/en)
 * [https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/)
 
-## Malware&#x20;
+## <mark style="color:purple;">Malware</mark>&#x20;
 
 * [https://github.com/fireeye/flare-vm](https://github.com/fireeye/flare-vm)
 * [https://remnux.org/](https://remnux.org/)
@@ -40,7 +40,7 @@ description: Random Resources I Found While Researching
   * [https://malshare.com/](https://malshare.com/)
 * [https://github.com/cristianzsh/freki](https://github.com/cristianzsh/freki)
 
-## Cool Tools and Alike
+## <mark style="color:purple;">Cool Tools and Alike</mark>
 
 * [https://github.com/opsdisk/pagodo](https://github.com/opsdisk/pagodo)
 * [https://www.magnumdb.com/](https://www.magnumdb.com/)
@@ -73,7 +73,7 @@ description: Random Resources I Found While Researching
 * [https://arttoolkit.github.io/](https://arttoolkit.github.io/)
 * [https://start.me/p/L1rEYQ/osint4all](https://start.me/p/L1rEYQ/osint4all)
 
-## Reverse Engineering
+## <mark style="color:purple;">Reverse Engineering</mark>
 
 * [https://godbolt.org/](https://godbolt.org/)
 * [https://dogbolt.org/](https://dogbolt.org/)
@@ -84,7 +84,7 @@ description: Random Resources I Found While Researching
 * [https://github.com/indetectables-net/toolkit](https://github.com/indetectables-net/toolkit)
 * [https://gamehacking.academy/](https://gamehacking.academy/)
 
-## Awesome Repos and Alike
+## <mark style="color:purple;">Awesome Repos and Alike</mark>
 
 * [https://github.com/onethawt/reverseengineering-reading-list](https://github.com/onethawt/reverseengineering-reading-list)
 * [https://github.com/wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering)
@@ -106,14 +106,14 @@ description: Random Resources I Found While Researching
 * [https://tools.tldr.run/](https://tools.tldr.run/)
 * [https://www.cfptime.org/home](https://www.cfptime.org/home)
 
-## Awesome Blogs
+## <mark style="color:purple;">Awesome Blogs</mark>
 
 * [https://fuzzysecurity.com/index.html](https://fuzzysecurity.com/index.html)
 * [https://paper.seebug.org/](https://paper.seebug.org/)
 * [https://0dayfans.com/](https://0dayfans.com/)
 * [https://www.tenouk.com/Sitemap.html](https://www.tenouk.com/Sitemap.html)
 
-## Programming
+## <mark style="color:purple;">Programming</mark>
 
 * [https://gitexercises.fracz.com/](https://gitexercises.fracz.com/)
 * [https://underthewire.tech/](https://underthewire.tech/)
@@ -126,7 +126,7 @@ description: Random Resources I Found While Researching
 * [https://www.installsetupconfig.com/](https://www.installsetupconfig.com/)
 * [https://learnxinyminutes.com/](https://learnxinyminutes.com/)
 
-## Living of Land
+## <mark style="color:purple;">Living of Land</mark>
 
 * [https://gtfobins.github.io/](https://gtfobins.github.io/)
 * [https://lolbas-project.github.io/](https://lolbas-project.github.io/)
@@ -140,20 +140,20 @@ description: Random Resources I Found While Researching
 * [https://unprotect.it/](https://unprotect.it/)
 * [https://www.loobins.io/](https://www.loobins.io/)
 
-## Blue Team
+## <mark style="color:purple;">Blue Team</mark>
 
 * [https://letsdefend.io/](https://letsdefend.io/)
 * [https://www.securityblue.team/](https://www.securityblue.team/)
 * [https://blueteamlabs.online/](https://blueteamlabs.online/)
 
-## OSINT
+## <mark style="color:purple;">OSINT</mark>
 
 * [https://whatsmyname.app/](https://whatsmyname.app/)
 * [https://map.malfrats.industries/](https://map.malfrats.industries/)
 * [https://osintframework.com/](https://osintframework.com/)
 * [https://start.me/p/L1rEYQ/osint4all](https://start.me/p/L1rEYQ/osint4all)
 
-## Cloud
+## <mark style="color:purple;">Cloud</mark>
 
 * [http://flaws.cloud/](http://flaws.cloud/)
 * [https://buckets.grayhatwarfare.com/](https://buckets.grayhatwarfare.com/)
