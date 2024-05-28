@@ -38,3 +38,33 @@ It warm reboots the system without clearing memory or restoring the IVT and it r
 
 ### <mark style="color:red;">Hardware Exceptions</mark>
 
+These are executed by processor and similar to software exceptions
+
+### <mark style="color:red;">CLI and STI</mark>&#x20;
+
+These can be used to enable or disable interrupts, all of them. `cli` clears them and `sti` enables them
+
+### <mark style="color:red;">Fault Hardware Exceptions</mark>
+
+* Double Fault - If processor finds invalid instruction (such as division by zero) it executes interrupt 0x8 which is second fault exception handler
+* Triple Fault - If processor can't continue after double fault, it executes triple fault i.e. it hard reboots
+
+## <mark style="color:purple;">Bootloader.asm</mark>
+
+<pre class="language-nasm" data-title="bootloader.asm" data-line-numbers data-full-width="false"><code class="lang-nasm">org 0x7c00
+bits 16
+
+start:
+  
+    cli 
+<strong>    hlt
+</strong><strong>
+</strong><strong>times 510 - ($ - $$) db 0
+</strong><strong>dw 0xaa55
+</strong></code></pre>
+
+* Line 1 : We are loaded by BIOS at the address of 0x7c00 and all addresses after this are relative to 0x7c00
+* Line 2 : x86 family is backwards compatible hence all x86 computers boot in 16bit mode
+* Line 4 to 7 : Label consisting of clearing all interrupts and then halting the system
+* Line 9 : The `$` represents address at the current line and `$$` represents address of the first instruction, so `$-$$` returns numbers of bytes from current line to the start and as boot signature should be last two bytes of the bootsector so we use `times` keyword to fill the rest bytes with 0
+* Line 10 : As [#bios](bootloaders.md#bios "mention") looks for a bootable disk and it identifies that with boot signature which is 0xAA55&#x20;
