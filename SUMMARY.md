@@ -7,4 +7,4 @@
   * [Malware Analysis Primer](practical-malware-analysis/malware-analysis-primer.md)
   * [Basic Techniques](practical-malware-analysis/basic-techniques.md)
 * [OS Development](os-development/README.md)
-  * [Bootloaders](os-development/bootloaders.md)
+  * [Bootloader](os-development/bootloader.md)
