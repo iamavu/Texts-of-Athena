@@ -25,7 +25,7 @@ You need to know your way around Linux, while I highly suggest that you just ins
 A really guided and comprehensive guide to learn Linux
 
 {% hint style="warning" %}
-EDIT : As of 27-12-2022, linuxjourney.com is down as it was hosted on heroku on free tier which ended
+EDIT : As of 27-Dec-2022, linuxjourney.com is down as it was hosted on heroku on free tier which ended
 
 Alternatives include&#x20;
 
@@ -33,7 +33,7 @@ Alternatives include&#x20;
 2. [Official GitHub Repo](https://github.com/cindyq/linuxjourney)
 3. [Clone of the website](https://notes.siira.io/) &#x20;
 
-EDIT : As of 06-03-2024, the original website is up and running
+EDIT : As of 06-Mar-2024, the original website is up and running
 {% endhint %}
 
 {% embed url="https://linuxjourney.com" %}
@@ -135,6 +135,10 @@ Similar platform to CryptoHack providing challenges&#x20;
 A interactive course teaching you reversing
 
 {% embed url="https://www.begin.re" %}
+
+{% hint style="info" %}
+EDIT : As of 06-Dec-2024, begin.re domain has expired
+{% endhint %}
 
 #### <mark style="color:green;">Reverse Engineering Course</mark>
 
